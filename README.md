@@ -4,6 +4,4 @@
 
 <img src="./demo/demo.gif" height="400" />
 
-
-
-## The source code of this game will be available as soon as. 
+## An implementation of NOKIA's Rapid roll game on java using only java swing lib.
